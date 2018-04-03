@@ -2,7 +2,9 @@
 This program is showing how to make an AI unit find and shoots its target. This is very common in all kinds of video games. Therefore, I made it as a reference for future's developments.
 
 Platform: Unity 3D Game Engine
+
 Language: C#
+
 Goal: AI unit finds and shoots its target
 
 Step1: Setup the shooter and targets' game objects.
